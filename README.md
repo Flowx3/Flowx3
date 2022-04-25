@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Flow</h1>
 <h3 align="center">A Developer from Germany</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flowx3&label=Profile%20views&color=0e75b6&style=flat" alt="flowx3" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 Discord: Flowx3#9626
 <p align="left">
