@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 Discord: Flowx3#9626
+<br>
 Email: Floriangoergx@gmail.com
 <p align="left">
 </p>
